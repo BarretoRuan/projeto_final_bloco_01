@@ -4,9 +4,9 @@ import java.io.IOException;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-import loja.controller.LojaController;
-import loja.model.ProdutosOnline;
-import loja.util.Cores;
+import ecommerce.controller.LojaController;
+import ecommerce.model.ProdutosOnline;
+import ecommerce.util.Cores;
 
 public class Menu {
 
